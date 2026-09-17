@@ -121,9 +121,9 @@ const Model = {
    // ]},
     { group: "Radiology Tech", items: [
       ["X-Ray", 90], ["CT-Scan", 90], ["RIS", 89], ["Panoramic", 88], ["PCAS", 88], ["C-Arm", 85],
-    ] },
+    ]},
     { group: "Spoken Languages", items: [
-      ["Javanese", 100], ["Bahasa Indonesia", 100], ["English", 70],
+      ["Javanese", 100], ["Bahasa Indonesia", 100], ["English", 80],
     ]},
   ],
 
