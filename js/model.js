@@ -120,7 +120,7 @@ const Model = {
     //  ["Tableau · Power BI", 72], ["Bash · PowerShell", 75],
    // ]},
     { group: "Radiology Tech", items: [
-      ["X-Ray", 90], ["CT-Scan", 90], ["RIS", 89], ["Panoramic", 88], ["PCAS", 88], ["C-Arm", 85],
+      ["X-Ray", 90], ["CT-Scan", 90], ["RIS", 89], ["Panoramic", 88], ["PACS", 88], ["C-Arm", 85],
     ]},
     { group: "Spoken Languages", items: [
       ["Javanese", 100], ["Bahasa Indonesia", 100], ["English", 80],
